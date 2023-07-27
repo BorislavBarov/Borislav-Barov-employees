@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="Pair_of_employees_who_have_worked_together.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Pair_of_employees_who_have_worked_together">
+    <Application.Resources />
+</Application>
